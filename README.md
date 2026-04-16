@@ -60,7 +60,7 @@ The dataset was cleaned and transformed using the following steps:
 - Real-time price prediction  
 - Dynamic scatter plot visualization  
 
-![Prediction Output](screenshot.jpg)
+![Prediction Output](Screenshot.jpg)
 
 ---
 
